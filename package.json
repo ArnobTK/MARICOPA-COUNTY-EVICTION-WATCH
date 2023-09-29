@@ -1,0 +1,15 @@
+{
+  "name": "maricopa-county-eviction-watch",
+  "version": "1.0.0",
+  "description": "MARICOPA COUNTY EVICTION WATCH companion script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArnobTK/MARICOPA-COUNTY-EVICTION-WATCH.git"
+  },
+  "author": "Arnob Taher Kabir",
+  "license": "ISC"
+}
